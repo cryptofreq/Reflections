@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The program highlighted the text with some ** or some ## to bring your attention
+    to the differences.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You could easily go back in time to see what the changes were.  You wouldn't
+    have to always make up new filenames.  Those don't always work or you could
+    make mistakes.  Automated version control takes some of the chores away from
+    the programmer
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros are that you commit yourself to the changes you just made.  They
+    can be crossed off the to-do list and you can work on the next one.  It helps
+    you to divide up your work into logical segments.  The cons is that sometimes
+    it ruins your work flow if you are in the zone.  Stopping to think about what
+    you just did can break your train of thought.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    There are a number of situations where changes to one file affect other files
+    as well.  So instead of doing a commit to each file, a commit commits changes
+    to mulitiple files simultaneously.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    you can use the command git diff and add 2 commit id's and the color coding
+    will allow you to see the differences between the files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I would know that the system wouldknow what changes I made and could let me know
+    what changed when i do a git diff.  This is much better than me making
+    notes on a stickie-pad.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to do some awesome python coding and work on my website!
+    
