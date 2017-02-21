@@ -3,6 +3,8 @@ It can serve as an additional storage area or backup.  It comes in handy for geo
 dispersed software development teams.  It provides a local working area for all
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Its a matter of control.  Computers aren't very good at mindreading.  If it was automatic then
+automatic updates would take control away from the developer.
 
 Fill in your answer here
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
