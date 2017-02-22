@@ -6,9 +6,11 @@ Why might you want to always pull changes manually rather than having Git automa
 Its a matter of control.  Computers aren't very good at mindreading.  If it was automatic then
 automatic updates would take control away from the developer.
 
-Fill in your answer here
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
-
+ A fork is the process of cloning somebody's repository on github. A clone is when you make a copy of a fork onto your local pc
+ A branch is when you want to set up an alternate development path that coincides side by side with the master branch.
+ You would fork somebody's repository to make changes to it without interfering with their work.  You would clone a repository
+ when you want to make a copy of a repository on your local pc in order to make changes or add a branch.
 Fill in your answer here
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
