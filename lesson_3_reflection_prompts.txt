@@ -22,7 +22,10 @@ This would be harder than working virtually since everybody would have to stop w
 were doing in order to attend the meeting.  Doing it virtually means everybody can adjust
 at their own pace.
 
-Fill in your answer here
+
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
-Fill in your answer here
+You would want to make changes in a separate branch because of new features that arose
+possibly - that might not have to do with the master specifically.  If in the future
+these features look like they would benefit the master then you could incorporate them.
+
